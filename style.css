@@ -397,6 +397,9 @@ footer h3 {
 #endereco {
   margin-right: 20%;
 }
+.infos a {
+  color: wheat;
+}
 
 /* CELULARES (Tela Pequena) */
 @media screen and (min-width: 900px) {
@@ -603,18 +606,23 @@ footer h3 {
   }
 
   .slidershow {
+    margin-top: -80px;
     margin-bottom: -140px;
   }
 
   .botoes-slide button {
-    width: 30px;
-    height: 30px;
+    width: 27px;
+    height: 27px;
   }
 
   /*MENU*/
   header {
     text-align: center;
     background-color: #252525;
+  }
+  .logo-menu img {
+    margin-top: 20px;
+    max-width: 40%;
   }
 
   .menu {
@@ -679,7 +687,13 @@ footer h3 {
     width: 100%;
     font-size: 40pt;
     text-align: center;
-    margin-left: 10%;
+  }
+  .text-propaganda p {
+    margin-left: 40px;
+  }
+  .text-propaganda img {
+    padding: 15px;
+    margin: 0 auto;
   }
 
   .img-propaganda {
