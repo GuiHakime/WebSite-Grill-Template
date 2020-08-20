@@ -1,4 +1,4 @@
 # WebSite-Grill-Template
- Html/Css/Js
+ Recorte de um template PSD > HTML/CSS/JAVASCRIPT
  
   https://guihakime.github.io/WebSite-Grill-Template/
